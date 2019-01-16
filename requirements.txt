@@ -1,0 +1,14 @@
+aiohttp==3.4.4
+aiopubsub==2.1.5
+async-timeout==3.0.1
+attrs==18.2.0
+bitstring==3.1.5
+chardet==3.0.4
+idna==2.7
+multidict==4.4.2
+pyserial==3.4
+pyserial-asyncio==0.4
+python-can==3.0.0
+typing==3.6.6
+wrapt==1.10.11
+yarl==1.2.6
